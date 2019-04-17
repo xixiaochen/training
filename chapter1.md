@@ -71,7 +71,7 @@ dim(clinical_info)
 #[1] 313   6
 ```
 
-TCGA barcode information: \(pdf file\)
+TCGA barcode information: https://docs.gdc.cancer.gov/Encyclopedia/pages/images/TCGA-TCGAbarcode-080518-1750-4378.pdf
 
 **2.3 Data preprocessing**
 
