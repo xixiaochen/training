@@ -243,8 +243,7 @@ ggsurvplot(fit,
     palette = c("blue", "red"))
 dev.off()
 ```
-
-![](.gitbook/assets/CCDC58_LIHC_new.png)
+![](../assets/CCDC58_LIHC_new.png)
 
 \*: each '+' represent a censored sample.
 
