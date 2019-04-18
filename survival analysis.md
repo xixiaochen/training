@@ -244,7 +244,7 @@ ggsurvplot(fit,
 dev.off()
 ```
 
-![](.gitbook/assets/CCDC58_LIHC.png)
+![](.gitbook/assets/CCDC58_LIHC_new.png)
 
 \*: each '+' represent a censored sample.
 
